@@ -1,0 +1,10 @@
+name: tv4_prep
+description: Pure-Dart prep code for TV4 (chat, report, admin). Move into the Flutter project's features/ folders once the foundation is ready.
+publish_to: none
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^4.0.0
